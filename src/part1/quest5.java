@@ -9,10 +9,9 @@ public class quest5 {
 			return a;
 		else if ((a > b && c < b)||(a < b && c > b))
 			return b;
-		return c;
-		
+		else
+			return c;
 	}
-
 	public static void main(String[] args) {
 		Scanner ipint = new Scanner(System.in);
 		
@@ -24,7 +23,5 @@ public class quest5 {
 		System.out.print("c : ");
 		int c = ipint.nextInt();
 		System.out.println("중앙값 : "+med3(a,b,c));
-
 	}
-
 }
