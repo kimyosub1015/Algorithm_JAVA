@@ -1,4 +1,5 @@
-package Part1;
+package part1;
+
 
 public class quest3 {
 	static int min4(int a,int b,int c,int d) {

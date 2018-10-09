@@ -1,4 +1,5 @@
-package Part1;
+package part1;
+
 
 public class quest1 {
 	static int max4(int a,int b,int c,int d) {
