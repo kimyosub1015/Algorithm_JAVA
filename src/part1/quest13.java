@@ -8,5 +8,4 @@ public class quest13 {
 			System.out.println();
 		}
 	}
-
 }

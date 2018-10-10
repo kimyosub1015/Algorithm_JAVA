@@ -2,7 +2,7 @@ package part1;
 
 import java.util.Scanner;
 
-public class quest4 {
+public class quest04 {
 	
 	static int med3(int a,int b,int c){
 		if(a>=b)

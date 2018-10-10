@@ -2,7 +2,7 @@ package part1;
 
 import java.util.Scanner;
 
-public class quest9 {
+public class quest09 {
 	static void sumof(int a,int b) {
 		int sum = 0;
 		int min,max;

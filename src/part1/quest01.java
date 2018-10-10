@@ -1,7 +1,7 @@
 package part1;
 
 
-public class quest1 {
+public class quest01 {
 	static int max4(int a,int b,int c,int d) {
 		int max = a;
 		if(b>max)

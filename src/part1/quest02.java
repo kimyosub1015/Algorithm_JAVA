@@ -1,7 +1,7 @@
 package part1;
 
 
-public class quest2 {
+public class quest02 {
 	static int min3(int a,int b,int c) {
 		int min = a;
 		if(b<min)

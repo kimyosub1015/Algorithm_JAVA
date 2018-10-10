@@ -2,7 +2,7 @@ package part1;
 
 import java.util.Scanner;
 
-public class quest5 {
+public class quest05 {
 	
 	static int med3(int a,int b,int c) {
 		if ((b >= a && c <= a)||(b <= a && c >= a))

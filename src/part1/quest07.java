@@ -2,7 +2,7 @@ package part1;
 
 import java.util.Scanner;
 
-public class quest7 {
+public class quest07 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -18,7 +18,6 @@ class quest10 {
 				break;
 			System.out.println("a보다 큰 값을 입력하세요!");
 		}
-
 		System.out.println("b - a는 " + (b - a) + "입니다.");
 	}
 }

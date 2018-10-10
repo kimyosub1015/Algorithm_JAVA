@@ -12,13 +12,11 @@ class quest11 {
 			System.out.print("정수를 입력하세요.：");
 			n = stdIn.nextInt();
 		} while (n <= 0);
-
 		int nums = 0;
 		while (n > 0) {
 			n /= 10;
 			nums++;
 		}
-
 		System.out.println(nums + "자리수");
 	}
 }
