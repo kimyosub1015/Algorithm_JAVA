@@ -5,10 +5,19 @@ import java.util.Scanner;
 public class quest9 {
 	static void sumof(int a,int b) {
 		int sum = 0;
-		for(int i = a;i<=b;i++) {
+		int min,max;
+		if(a<b) {
+			min=a;
+			max=b;
+		}
+		else {
+			min=b;
+			max=a;
+		}
+		for(int i = min;i<=max;i++) {
 			sum += i;
 			System.out.print(i);
-			if(i == b)
+			if(i == max)
 				System.out.print("=");
 			else
 				System.out.print("+");
