@@ -17,7 +17,6 @@ public class Quest1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner stdIn = new Scanner(System.in);
-
 		System.out.print("요솟수 : ");
 		int num = stdIn.nextInt();
 		int[] x = new int[num+1];
