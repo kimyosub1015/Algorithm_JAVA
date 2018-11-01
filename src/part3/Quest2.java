@@ -23,7 +23,7 @@ public class Quest2 {
 			}
 			System.out.println("*");
 			System.out.print(" "+i+"|");
-			for (int y = 0;y<n;y++) {
+			for (int y = 0;y<n;y++) {	
 				System.out.print(" "+a[y]);
 			}System.out.println("");
 			if (i == n)
